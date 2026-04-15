@@ -1,0 +1,400 @@
+{
+  "sections": {
+    "slideshow_TJ8KBa": {
+      "type": "slideshow",
+      "blocks": {
+        "image_yYUE8X": {
+          "type": "image",
+          "settings": {
+            "image": "piclumen-hero.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Avelis New York",
+            "title": "",
+            "heading_tag": "h2",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_yYUE8X"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "none",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_NFrXEB": {
+          "type": "collection",
+          "settings": {
+            "collection": "summer-dresses",
+            "subheading": "",
+            "title": "Summer Dresses",
+            "url": "shopify://collections/dresses-v-new",
+            "heading_tag": "h3",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_txYK8j": {
+          "type": "collection",
+          "settings": {
+            "collection": "denim",
+            "subheading": "",
+            "title": "Denim",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_xq9gUf": {
+          "type": "collection",
+          "settings": {
+            "collection": "tops",
+            "image": "shopify://shop_images/B1747479041732.jpg",
+            "subheading": "",
+            "title": "Tops",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_AYhnCe": {
+          "type": "collection",
+          "settings": {
+            "collection": "sets",
+            "image": "shopify://shop_images/B1757933287547.jpg",
+            "subheading": "",
+            "title": "Sets",
+            "url": "shopify://collections/short-skirts-v-new",
+            "heading_tag": "h3",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_8kjaBc": {
+          "type": "collection",
+          "settings": {
+            "collection": "blazers",
+            "image": "shopify://shop_images/B1754376611169.jpg",
+            "subheading": "",
+            "title": "Blazers",
+            "url": "shopify://collections/blazers-v-new",
+            "heading_tag": "h3",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_Vj3gBV": {
+          "type": "collection",
+          "settings": {
+            "collection": "bodysuits",
+            "image": "shopify://shop_images/B1761789632881.jpg",
+            "subheading": "",
+            "title": "Bodysuits",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_NFrXEB",
+        "collection_txYK8j",
+        "collection_xq9gUf",
+        "collection_AYhnCe",
+        "collection_8kjaBc",
+        "collection_Vj3gBV"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "SS26 Woman",
+        "content": "",
+        "link_url": "shopify://collections/blazers-v-new",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "apr-vrouwen",
+        "products": [
+          "3d-floral-applique-knit-vest",
+          "3d-floral-cropped-jacket",
+          "asymmetric-cape-sleeve-slinky-knit-bodysuit",
+          "beaded-linen-blend-top-shorts-set"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "New for Her",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "1664424230c4756b0e-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Avelis New York",
+            "heading_tag": "h0"
+          }
+        },
+        "1664424230c4756b0e-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>For lovers of smart casual clothing</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664424230c4756b0e-1",
+        "1664424230c4756b0e-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ultra-realistic-4k-photo-of-a-womens-fas_zb7WNOgrRGSr3J1dy2TFDA_RcVL7LdRQF6cyhsIv4sW8Q_sd_1.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 10
+      }
+    },
+    "media-grid": {
+      "type": "media-grid",
+      "blocks": {
+        "item-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/customer-service-rep-on-headset.jpg",
+            "title": "Contact",
+            "heading_tag": "h4",
+            "link_url": "shopify://pages/contact",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/team-listens-at-meeting.jpg",
+            "title": "Join Our Team",
+            "heading_tag": "h4",
+            "link_url": "shopify://pages/join-our-team",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_GiUtXd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/three-woman-stand-in-front-of-a-pink-backdrop.jpg",
+            "title": "About us",
+            "heading_tag": "h4",
+            "link_url": "shopify://pages/about-us",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item-3",
+        "item-1",
+        "image_GiUtXd"
+      ],
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Free premium shipping",
+            "content": "<p>We ship all our orders within the UK with Royal Mail. Do you order before 11 PM? Then your parcel will be sent the next day free of charge. So you will receive your order quickly and without extra costs!</p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "Returns",
+            "content": "<p>Not quite satisfied? No worries! You can easily and quickly return your order within 30 days of receipt. We make sure the process goes smoothly, so you don't have to worry.</p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Size",
+            "content": "<p>Our clothes fit exactly as indicated in the size chart. You will find the size chart with each product, so you can always choose the right size and be sure it fits perfectly.</p>"
+          }
+        },
+        "item_i7Uw3z": {
+          "type": "item",
+          "settings": {
+            "title": "Neede more help?",
+            "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>Email: info@avelisny.com<br/></p><p>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 17:00</p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2",
+        "item_i7Uw3z"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "Frequently Asked Questions",
+        "content": "<p>Answer to all your questions!</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Mon / Fri 09:00 - 17:00Sat / Sun 10:00 - 17:00",
+        "answer_time": "Response within 24 hours",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "rich_text_welcome": {
+      "type": "rich-text",
+      "blocks": {
+        "welcome_richtext": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>For years, we’ve had the privilege of building this boutique in the heart of New York — a space where timeless style meets the effortless energy of the city.</p><p>Every piece you’ll find here has been carefully selected with intention: to feel refined, distinctive, and quietly confident. This boutique has never been about trends alone, but about creating a wardrobe that feels personal, enduring, and uniquely yours.</p><p>New York is constantly evolving — and so are we. As the rhythm of the city shifts, we take a moment to reintroduce what this space stands for: thoughtful fashion, elevated essentials, and pieces designed to be worn and loved for years to come.</p><p>This boutique is, and always will be, a reflection of our passion for craftsmanship, detail, and understated elegance.</p><p>We are truly grateful to everyone who has been part of this journey — and we look forward to welcoming you (back) into our world.</p><p>— the Avelis New York team</p>"
+          }
+        }
+      },
+      "block_order": [
+        "welcome_richtext"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "#D4A5A5",
+        "text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "slideshow_TJ8KBa",
+    "rich_text_welcome",
+    "collection-list",
+    "featured-collection",
+    "image-with-text-overlay",
+    "media-grid",
+    "faq"
+  ]
+}
